@@ -16,12 +16,20 @@ SDLC project was mainly researched on the topics of how a software development h
 - Eclipse IDE
 - LucidChart
 - MySQL Workbench
+- Axure RP
 
 ### What I have done
 Most of the duration of the project was spent in learning about the software development lifecycle and how a software development can be developed in a particular manner. Here's my outcomes after the research.
 
 - Developed a step-by-step waterfall business model to create a portal 
 - Evaluated possible risks and the solutions
-- Developed a login function for the portal where the user will get confirmation page on the time of their full registeration
+- Implemented a prototype of the portal
+- Developed a login function where the user will get confirmation page on the time of their full registeration
+
+In this project, the function that has been developed worked functionally and the rest of the portal was not developed due to time availability of the course.
+
+##### Here is the link to the entirety of the project. [Click Here!](https://drive.google.com/drive/folders/1h_vpPvIOWHo9DhnSrmdXjEDHCAcWp1h2?usp=sharing) 
+
+
 
 
