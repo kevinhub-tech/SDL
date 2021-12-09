@@ -18,5 +18,10 @@ SDLC project was mainly researched on the topics of how a software development h
 - MySQL Workbench
 
 ### What I have done
+Most of the duration of the project was spent in learning about the software development lifecycle and how a software development can be developed in a particular manner. Here's my outcomes after the research.
+
+- Developed a step-by-step waterfall business model to create a portal 
+- Evaluated possible risks and the solutions
+- Developed a login function for the portal where the user will get confirmation page on the time of their full registeration
 
 
